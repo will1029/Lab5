@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/lonelyTwitter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
-        <dex dex="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/lonelyTwitter/app/build/intermediates/pre-dexed/debug/classes-98f3a5f770e1e54a1aa1f32dfb8538afda60ad61.jar" />
-    </item>
-    <item
         jar="/afs/ualberta.ca/home/t/h/thoang/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/lonelyTwitter/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-6d35ed890fac0cc95120337da540f2c7fc049aa4.jar" />
+        <dex dex="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-6d35ed890fac0cc95120337da540f2c7fc049aa4.jar" />
+    </item>
+    <item
+        jar="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/app/src/include/jest-droid-2.0.1-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1199e84d8d3907b8262330dd6976ce04d37f6de">
+        <dex dex="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/app/build/intermediates/pre-dexed/debug/jest-droid-2.0.1-SNAPSHOT-81fe41f1bdc5844e46f4d50c020b26f7c0bd834c.jar" />
     </item>
     <item
         jar="/afs/ualberta.ca/home/t/h/thoang/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.6.3/94ec2d7b23be9817d92905cc09124aecfc46d28c/robotium-solo-5.6.3.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="94ec2d7b23be9817d92905cc09124aecfc46d28c">
-        <dex dex="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/lonelyTwitter/app/build/intermediates/pre-dexed/debug/robotium-solo-5.6.3-cbe95661e83bde42463fa663587cce2674655bdf.jar" />
+        <dex dex="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/app/build/intermediates/pre-dexed/debug/robotium-solo-5.6.3-cbe95661e83bde42463fa663587cce2674655bdf.jar" />
     </item>
     <item
-        jar="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/lonelyTwitter/app/src/include/jest-droid-2.0.1-SNAPSHOT.jar"
+        jar="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e1199e84d8d3907b8262330dd6976ce04d37f6de">
-        <dex dex="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/lonelyTwitter/app/build/intermediates/pre-dexed/debug/jest-droid-2.0.1-SNAPSHOT-a2a27f47b9babb69f97e761a5c47a0fc72e677ea.jar" />
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/app/build/intermediates/pre-dexed/debug/classes-c0abfda88bacb41d2062f9c664da71b63ac7c4cc.jar" />
     </item>
 
 </items>

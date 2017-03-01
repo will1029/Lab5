@@ -133,7 +133,7 @@
     <!-- From: file:/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">LonelyTwitter</string>
-    <string name="clear">Search</string>
+    <string name="clear">Clear</string>
     <string name="hello">Joshua said:</string>
     <string name="save">Save</string>
     <!-- From: file:/afs/ualberta.ca/home/t/h/thoang/c301/Lab5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
